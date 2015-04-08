@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 add a new file on dev branch change on master.
-=======
 add a new file on dev branch and change on feature1 branch.
