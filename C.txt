@@ -1,1 +1,3 @@
 issue-101
+push -u origin should be related to master
+
