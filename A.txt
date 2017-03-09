@@ -3,7 +3,3 @@ add a new file on dev branch and change on feature1 branch.
 add on win8.1
 add on win7
 使用visual studio code    
-
-insert in vim
-
-lkasdf
